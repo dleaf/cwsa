@@ -2,7 +2,7 @@ body {
   font-family: Myriad Pro, Garamond, Helvetica, Arial;
   line-height: 1.5em;
   font-size: 14px;
-  background: url(background.jpg) repeat-y top center;
+  background: url(images/background.jpg) repeat-y top center;
 }
 
 #page {
